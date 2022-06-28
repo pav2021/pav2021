@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pav2021
-- 👀 I’m interested in learning Webtechnologies
-- 🌱 I’m currently learning Javascript,React and node JS
+- 👀 I’m interested in learning Webtechnologies and QA Automation
+
 
 
 <!---
